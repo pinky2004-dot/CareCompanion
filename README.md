@@ -1,4 +1,4 @@
-# CareCompanion
+<h1 align="center">CareCompanion</h1>
 
 > Transform complex medical documents into simple, actionable care plans
 
